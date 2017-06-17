@@ -5,7 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/Main.unity
   - enabled: 1
     path: Assets/Main/SciFi level/SciFi Level.unity
+  - enabled: 1
+    path: Assets/Main/Scenes/Main.unity
+  - enabled: 1
+    path: Assets/Main/Scenes/thign.unity
